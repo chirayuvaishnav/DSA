@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/chirayuvaishnav/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/chirayuvaishnav/DSA/tree/master/0055-jump-game) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chirayuvaishnav/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/chirayuvaishnav/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/chirayuvaishnav/DSA/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/chirayuvaishnav/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Stack
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/chirayuvaishnav/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/chirayuvaishnav/DSA/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/chirayuvaishnav/DSA/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->

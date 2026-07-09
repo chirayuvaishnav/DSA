@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/chirayuvaishnav/DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/chirayuvaishnav/DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chirayuvaishnav/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/chirayuvaishnav/DSA/tree/master/0435-non-overlapping-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chirayuvaishnav/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chirayuvaishnav/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/chirayuvaishnav/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/chirayuvaishnav/DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chirayuvaishnav/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/chirayuvaishnav/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/chirayuvaishnav/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/chirayuvaishnav/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/chirayuvaishnav/DSA/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/chirayuvaishnav/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/chirayuvaishnav/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
 |  |
@@ -76,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/chirayuvaishnav/DSA/tree/master/0066-plus-one) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/chirayuvaishnav/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Sorting
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/chirayuvaishnav/DSA/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->

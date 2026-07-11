@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/chirayuvaishnav/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/chirayuvaishnav/DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/chirayuvaishnav/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chirayuvaishnav/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/chirayuvaishnav/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/chirayuvaishnav/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/chirayuvaishnav/DSA/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/chirayuvaishnav/DSA/tree/master/0070-climbing-stairs) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/chirayuvaishnav/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
 |  |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/chirayuvaishnav/DSA/tree/master/0112-path-sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/chirayuvaishnav/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

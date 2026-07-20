@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/chirayuvaishnav/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/chirayuvaishnav/DSA/tree/master/0509-fibonacci-number) |
 | [1323-maximum-69-number](https://github.com/chirayuvaishnav/DSA/tree/master/1323-maximum-69-number) |
+| [2652-sum-multiples](https://github.com/chirayuvaishnav/DSA/tree/master/2652-sum-multiples) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/chirayuvaishnav/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
 |  |

@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/chirayuvaishnav/DSA/tree/master/1323-maximum-69-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/chirayuvaishnav/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2652-sum-multiples](https://github.com/chirayuvaishnav/DSA/tree/master/2652-sum-multiples) |
+| [3536-maximum-product-of-two-digits](https://github.com/chirayuvaishnav/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/chirayuvaishnav/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/chirayuvaishnav/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/chirayuvaishnav/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/chirayuvaishnav/DSA/tree/master/2706-buy-two-chocolates) |
+| [3536-maximum-product-of-two-digits](https://github.com/chirayuvaishnav/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
 |  |
 | ------- |

@@ -14,7 +14,7 @@ class Solution {
             return arr[i][j];
         
         if (i >= m || j >= n)
-            return (int)1e9;
+            return Integer.MAX_VALUE;
 
         if(dp[i][j] != -1)
             return dp[i][j];

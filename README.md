@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/chirayuvaishnav/DSA/tree/master/0948-bag-of-tokens) |
 | [1200-minimum-absolute-difference](https://github.com/chirayuvaishnav/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/chirayuvaishnav/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chirayuvaishnav/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/chirayuvaishnav/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chirayuvaishnav/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2706-buy-two-chocolates](https://github.com/chirayuvaishnav/DSA/tree/master/2706-buy-two-chocolates) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/chirayuvaishnav/DSA/tree/master/0948-bag-of-tokens) |
 | [1200-minimum-absolute-difference](https://github.com/chirayuvaishnav/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/chirayuvaishnav/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chirayuvaishnav/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/chirayuvaishnav/DSA/tree/master/2706-buy-two-chocolates) |
 | [3536-maximum-product-of-two-digits](https://github.com/chirayuvaishnav/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/chirayuvaishnav/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/chirayuvaishnav/DSA/tree/master/0064-minimum-path-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chirayuvaishnav/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->

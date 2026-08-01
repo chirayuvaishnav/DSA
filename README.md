@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/chirayuvaishnav/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/chirayuvaishnav/DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/chirayuvaishnav/DSA/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/chirayuvaishnav/DSA/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/chirayuvaishnav/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chirayuvaishnav/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/chirayuvaishnav/DSA/tree/master/0198-house-robber) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chirayuvaishnav/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/chirayuvaishnav/DSA/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/chirayuvaishnav/DSA/tree/master/0079-word-search) |
 | [0678-valid-parenthesis-string](https://github.com/chirayuvaishnav/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/chirayuvaishnav/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/chirayuvaishnav/DSA/tree/master/0709-to-lower-case) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/chirayuvaishnav/DSA/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/chirayuvaishnav/DSA/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
@@ -197,8 +200,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/chirayuvaishnav/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/chirayuvaishnav/DSA/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/chirayuvaishnav/DSA/tree/master/0079-word-search) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chirayuvaishnav/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/chirayuvaishnav/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

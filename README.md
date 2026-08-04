@@ -162,12 +162,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/chirayuvaishnav/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/chirayuvaishnav/DSA/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chirayuvaishnav/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/chirayuvaishnav/DSA/tree/master/0079-word-search) |
+| [0099-recover-binary-search-tree](https://github.com/chirayuvaishnav/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/chirayuvaishnav/DSA/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chirayuvaishnav/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Breadth-First Search
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/chirayuvaishnav/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/chirayuvaishnav/DSA/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chirayuvaishnav/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Memoization
@@ -219,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chirayuvaishnav/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/chirayuvaishnav/DSA/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->

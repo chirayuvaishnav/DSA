@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/chirayuvaishnav/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/chirayuvaishnav/DSA/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/chirayuvaishnav/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0322-coin-change](https://github.com/chirayuvaishnav/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/chirayuvaishnav/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/chirayuvaishnav/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chirayuvaishnav/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chirayuvaishnav/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/chirayuvaishnav/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/chirayuvaishnav/DSA/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/chirayuvaishnav/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/chirayuvaishnav/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/chirayuvaishnav/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/chirayuvaishnav/DSA/tree/master/0509-fibonacci-number) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/chirayuvaishnav/DSA/tree/master/0112-path-sum) |
+| [0322-coin-change](https://github.com/chirayuvaishnav/DSA/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -231,4 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/chirayuvaishnav/DSA/tree/master/0099-recover-binary-search-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/chirayuvaishnav/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/chirayuvaishnav/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

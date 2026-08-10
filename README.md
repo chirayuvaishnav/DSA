@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chirayuvaishnav/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/chirayuvaishnav/DSA/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/chirayuvaishnav/DSA/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/chirayuvaishnav/DSA/tree/master/0079-word-search) |
 | [0583-delete-operation-for-two-strings](https://github.com/chirayuvaishnav/DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/chirayuvaishnav/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/chirayuvaishnav/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/chirayuvaishnav/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/chirayuvaishnav/DSA/tree/master/0062-unique-paths) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/chirayuvaishnav/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/chirayuvaishnav/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/chirayuvaishnav/DSA/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/chirayuvaishnav/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/chirayuvaishnav/DSA/tree/master/0044-wildcard-matching) |
 | [0509-fibonacci-number](https://github.com/chirayuvaishnav/DSA/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |

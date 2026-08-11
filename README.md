@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/chirayuvaishnav/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chirayuvaishnav/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/chirayuvaishnav/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0877-stone-game](https://github.com/chirayuvaishnav/DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/chirayuvaishnav/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0948-bag-of-tokens](https://github.com/chirayuvaishnav/DSA/tree/master/0948-bag-of-tokens) |
 | [1200-minimum-absolute-difference](https://github.com/chirayuvaishnav/DSA/tree/master/1200-minimum-absolute-difference) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/chirayuvaishnav/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/chirayuvaishnav/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/chirayuvaishnav/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/chirayuvaishnav/DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/chirayuvaishnav/DSA/tree/master/0931-minimum-falling-path-sum) |
 ## Stack
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/chirayuvaishnav/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/chirayuvaishnav/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chirayuvaishnav/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/chirayuvaishnav/DSA/tree/master/0877-stone-game) |
 | [1323-maximum-69-number](https://github.com/chirayuvaishnav/DSA/tree/master/1323-maximum-69-number) |
 | [1390-four-divisors](https://github.com/chirayuvaishnav/DSA/tree/master/1390-four-divisors) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/chirayuvaishnav/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -259,4 +262,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/chirayuvaishnav/DSA/tree/master/0583-delete-operation-for-two-strings) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/chirayuvaishnav/DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/chirayuvaishnav/DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/chirayuvaishnav/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

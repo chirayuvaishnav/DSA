@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/chirayuvaishnav/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0219-contains-duplicate-ii](https://github.com/chirayuvaishnav/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chirayuvaishnav/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/chirayuvaishnav/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/chirayuvaishnav/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chirayuvaishnav/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/chirayuvaishnav/DSA/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/chirayuvaishnav/DSA/tree/master/0058-length-of-last-word) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/chirayuvaishnav/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/chirayuvaishnav/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/chirayuvaishnav/DSA/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/chirayuvaishnav/DSA/tree/master/0079-word-search) |

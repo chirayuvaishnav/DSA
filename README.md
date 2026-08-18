@@ -196,11 +196,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/chirayuvaishnav/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/chirayuvaishnav/DSA/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chirayuvaishnav/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0547-number-of-provinces](https://github.com/chirayuvaishnav/DSA/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/chirayuvaishnav/DSA/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/chirayuvaishnav/DSA/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/chirayuvaishnav/DSA/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -286,4 +288,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/chirayuvaishnav/DSA/tree/master/0051-n-queens) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/chirayuvaishnav/DSA/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/chirayuvaishnav/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/chirayuvaishnav/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/chirayuvaishnav/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/chirayuvaishnav/DSA/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chirayuvaishnav/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Depth-First Search
@@ -194,12 +195,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/chirayuvaishnav/DSA/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/chirayuvaishnav/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/chirayuvaishnav/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/chirayuvaishnav/DSA/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chirayuvaishnav/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0547-number-of-provinces](https://github.com/chirayuvaishnav/DSA/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/chirayuvaishnav/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/chirayuvaishnav/DSA/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/chirayuvaishnav/DSA/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/chirayuvaishnav/DSA/tree/master/0547-number-of-provinces) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/chirayuvaishnav/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/chirayuvaishnav/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/chirayuvaishnav/DSA/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chirayuvaishnav/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Memoization

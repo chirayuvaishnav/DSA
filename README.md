@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chirayuvaishnav/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/chirayuvaishnav/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chirayuvaishnav/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/chirayuvaishnav/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/chirayuvaishnav/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/chirayuvaishnav/DSA/tree/master/2706-buy-two-chocolates) |
 | [3731-find-missing-elements](https://github.com/chirayuvaishnav/DSA/tree/master/3731-find-missing-elements) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/chirayuvaishnav/DSA/tree/master/0948-bag-of-tokens) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/chirayuvaishnav/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1323-maximum-69-number](https://github.com/chirayuvaishnav/DSA/tree/master/1323-maximum-69-number) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/chirayuvaishnav/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/chirayuvaishnav/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/chirayuvaishnav/DSA/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chirayuvaishnav/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |

@@ -302,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/chirayuvaishnav/DSA/tree/master/0547-number-of-provinces) |
+## Database
+|  |
+| ------- |
+| [1251-average-selling-price](https://github.com/chirayuvaishnav/DSA/tree/master/1251-average-selling-price) |
 <!---LeetCode Topics End-->

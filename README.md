@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/chirayuvaishnav/DSA/tree/master/0044-wildcard-matching) |
+| [0203-remove-linked-list-elements](https://github.com/chirayuvaishnav/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/chirayuvaishnav/DSA/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chirayuvaishnav/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0203-remove-linked-list-elements](https://github.com/chirayuvaishnav/DSA/tree/master/0203-remove-linked-list-elements) |
 ## Binary Search Tree
 |  |
 | ------- |

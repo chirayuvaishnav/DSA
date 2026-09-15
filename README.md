@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/chirayuvaishnav/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/chirayuvaishnav/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chirayuvaishnav/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/chirayuvaishnav/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/chirayuvaishnav/DSA/tree/master/0877-stone-game) |
 | [1323-maximum-69-number](https://github.com/chirayuvaishnav/DSA/tree/master/1323-maximum-69-number) |
 | [1390-four-divisors](https://github.com/chirayuvaishnav/DSA/tree/master/1390-four-divisors) |
@@ -311,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1251-average-selling-price](https://github.com/chirayuvaishnav/DSA/tree/master/1251-average-selling-price) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/chirayuvaishnav/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

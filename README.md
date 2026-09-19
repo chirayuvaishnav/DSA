@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/chirayuvaishnav/DSA/tree/master/0877-stone-game) |
 | [1323-maximum-69-number](https://github.com/chirayuvaishnav/DSA/tree/master/1323-maximum-69-number) |
 | [1390-four-divisors](https://github.com/chirayuvaishnav/DSA/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/chirayuvaishnav/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/chirayuvaishnav/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2652-sum-multiples](https://github.com/chirayuvaishnav/DSA/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chirayuvaishnav/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -316,4 +317,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/chirayuvaishnav/DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/chirayuvaishnav/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->

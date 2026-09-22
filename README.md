@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chirayuvaishnav/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/chirayuvaishnav/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/chirayuvaishnav/DSA/tree/master/2706-buy-two-chocolates) |
+| [3524-find-x-value-of-array-i](https://github.com/chirayuvaishnav/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3731-find-missing-elements](https://github.com/chirayuvaishnav/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chirayuvaishnav/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/chirayuvaishnav/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/chirayuvaishnav/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/chirayuvaishnav/DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/chirayuvaishnav/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/chirayuvaishnav/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/chirayuvaishnav/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2652-sum-multiples](https://github.com/chirayuvaishnav/DSA/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chirayuvaishnav/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3524-find-x-value-of-array-i](https://github.com/chirayuvaishnav/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/chirayuvaishnav/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/chirayuvaishnav/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/chirayuvaishnav/DSA/tree/master/3870-count-commas-in-range) |
